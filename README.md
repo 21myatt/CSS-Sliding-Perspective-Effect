@@ -1,5 +1,5 @@
 # CSS-Sliding-Perspective-Effect
-Pure-CSS-Effect
+Pure CSS Effect
 
 
 ## Concepts
